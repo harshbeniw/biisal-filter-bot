@@ -43,7 +43,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="https://t.me/+6rLtVYeaOn9jNWM1">ᴘʏʀᴏғᴏʀᴋ</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ʟᴏʀᴅ ᴋʀɪsʜɴᴀ
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Bot_father_lover">ʙɪɪsᴀʟ</a>
-🧑🏻‍💻 ʀᴇᴘᴏ : <a href="https://github.com/harshbeniw/Harsh-vardhan.git>ʟɪɴᴋ</a>
+🧑🏻‍💻 ʀᴇᴘᴏ : <a href="https://github.com/harshbeniw/Harsh-vardhan.git">ʟɪɴᴋ</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -105,7 +105,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """ 📂 <i><a href="https://telegram.me/INFINITE_MOVIES_2024">{file_name}</a></i>\n\n"""
+    FILE_CAPTION = """ 📂 <i><a href="https://t.me/INFINITE_MOVIES_2024">{file_name}</a></i>\n\n"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
