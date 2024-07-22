@@ -105,7 +105,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """ 📂 <i><a href="https://t.me/INFINITE_MOVIES_2024">{file_name}</a></i>\n\n"""
+    FILE_CAPTION = """<a href='https://t.me/INFINITE_MOVIES_2024'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
